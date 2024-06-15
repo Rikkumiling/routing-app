@@ -1,0 +1,45 @@
+.Login-box{
+    width: max-content;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    border-radius: 5px;
+    background-color: ivory;
+}
+.Login-box form{
+    margin: 3vw;
+    text-align: left;
+    align-content: center;
+}
+input{
+    width: 60%;
+    display: inline;
+}
+label{
+    display: inline;
+}
+button{
+    width:50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Navbar nav{
+    margin-left: 5vw;
+    margin-right: 5vw;
+    background-color: rgb(173, 173, 173);
+    display: flex;
+    flex-direction: row;
+}
+
+.Navbar nav a{
+    padding: 10px;
+    margin: 1vw;
+    align-self: center;
+}
+
+.Navbar nav h1{
+    flex-grow: 8;
+    margin-left: 1vw;
+}
